@@ -13,7 +13,7 @@ The developed model should achieve high accuracy, effectively generalize to unse
 
 ## Neural Network Model:
 
-<img width="959" height="433" alt="567560573-ca98d4ce-65d5-42ab-b25a-f7c3f63eab61" src="https://github.com/user-attachments/assets/68d1429c-97ff-4148-ad9a-dbff338bdaef" />
+<img width="790" height="490" alt="download" src="https://github.com/user-attachments/assets/447c127e-ee57-404e-b5eb-134f122c7683" />
 
 
 
@@ -191,27 +191,29 @@ predict_image(model, image_index=82, dataset=test_dataset)
 ### OUTPUT
 
 ## Training Loss per Epoch
+<img width="790" height="490" alt="download" src="https://github.com/user-attachments/assets/c5eefe85-4c6a-4d5f-95cc-5c875ab890b8" />
 
-<img width="660" height="606" alt="image" src="https://github.com/user-attachments/assets/843c5570-63f2-438d-b8c7-59f6c48f3f5f" />
 
 
 
 ## Confusion Matrix
 
-<img width="1753" height="841" alt="image" src="https://github.com/user-attachments/assets/b00c5ae9-1ebe-46b8-8b1a-cf0d006b6504" />
+<img width="922" height="790" alt="download" src="https://github.com/user-attachments/assets/bf5e969f-b2f8-4ced-92db-66ac8d4cb866" />
+
 
 
 
 
 ## Classification Report
-
-<img width="917" height="325" alt="image" src="https://github.com/user-attachments/assets/0388213c-65c9-4d8d-a221-801feb5239d8" />
+<img width="331" height="185" alt="image" src="https://github.com/user-attachments/assets/e80790b4-c7d2-4d71-98ee-53c2bbab1571" />
 
 
 
 ### New Sample Data Prediction
 
-<img width="402" height="826" alt="image" src="https://github.com/user-attachments/assets/bdd05b98-85a9-4e83-a630-7f5da42ce2ba" />
+<img width="229" height="260" alt="image" src="https://github.com/user-attachments/assets/29c2b489-6be5-439d-b2c9-59765d22254d" />
+<img width="246" height="322" alt="image" src="https://github.com/user-attachments/assets/c542cc95-18db-475b-8a59-462b1d2f7e0d" />
+
 
 
 ## RESULT
